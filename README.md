@@ -43,7 +43,7 @@ Submit a Pull Request:
 
 6. ## Go to the original repository on GitHub.
 
-7. ##Create a new pull request detailing your changes and why they should be included.
+7. ## Create a new pull request detailing your changes and why they should be included.
 Celebrate Your Contribution 🎉: Your project will be reviewed by our team and community members. Once approved, it will be merged into the main repository!
 
 Community Guidelines
@@ -53,3 +53,12 @@ Respect others and their contributions.
 Use constructive feedback and be open to suggestions.
 Follow coding standards and best practices.
 Have fun learning and sharing your knowledge!
+
+
+## Tags
+
+- #CProgramming
+- #BeginnerProjects
+- #OpenSource
+- #LearningC
+- #CProjects
