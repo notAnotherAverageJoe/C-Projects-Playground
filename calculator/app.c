@@ -7,7 +7,8 @@ int main() {
     int op;
 
 while (op !=9){
-    printf("Hello! please pick your operation:\n1: Addition\n2: Subtraction\n3: Multiplication\n4: Division\n5: Remainder\n6: Power \n9: To Quit!\n");
+    
+    printf("Hello! please pick your operation (1-9):\n1: Addition\n2: Subtraction\n3: Multiplication\n4: Division\n5: Remainder\n6: Power \n9: To Quit!\n");
     scanf("%d", &op);
     if (op == 1){
         printf("Please pick your first number: ");
