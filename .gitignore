@@ -1,0 +1,65 @@
+# Object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Debug files
+*.dSYM/
+*.dmp
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+*.bak
+
+# Compiled Static libraries
+*.lib
+
+# Compiled Dynamic libraries
+*.dll
+*.dylib
+*.so
+
+# Build directories
+/build/
+/dist/
+/bin/
+/lib/
+/out/
+/Debug/
+/Release/
+
+# IDE specific files
+/.vscode/
+/.idea/
+/*.code-workspace
+
+# Other
+*~
+*.DS_Store
+Thumbs.db
+
+# CMake files
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+/compile_commands.json
+
+# Autotools files
+/autom4te.cache/
+/config.status
+/config.log
+/configure
+/stamp-h1
+
+# Test binaries
+/test-bin/
